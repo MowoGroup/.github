@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Studios, products, and the technology that powers them — all under one roof.</b><br/>
-  <sub>Parent company behind <a href="https://mowogames.com">Mowo Games</a> and <a href="https://github.com/mowo-group">MowoEngine</a>. Est. 2025.</sub>
+  <sub>Parent company behind <a href="https://mowogames.com">Mowo Games</a> and <a href="https://github.com/mowo-group">MowoEngine</a>. Est. 2026.</sub>
 </p>
 
 <p align="center">
@@ -82,8 +82,8 @@
 
 |   | | |
 |---|---|---|
-| <a href="https://github.com/wooslow"><img src="https://github.com/wooslow.png" width="64" alt="Luke Sauliunas" /></a> | **Luke Sauliunas** &nbsp; · &nbsp; *CEO, Co-Founder* | [GitHub](https://github.com/wooslow) · [LinkedIn](https://www.linkedin.com/in/wooslow/) |
-| <a href="https://github.com/monntecc"><img src="https://github.com/monntecc.png" width="64" alt="Vladyslav Potapenko" /></a> | **Vladyslav Potapenko** &nbsp; · &nbsp; *CTO / COO, Co-Founder* | [GitHub](https://github.com/monntecc) · [LinkedIn](https://www.linkedin.com/in/monntecc/) |
+| <a href="https://github.com/wooslow"><img src="https://github.com/wooslow.png" width="64" alt="Luke Sauliunas" /></a> | **Luke Sauliunas** &nbsp; · &nbsp; *CEO, Co-Founder* | [GitHub](https://github.com/wooslow) |
+| <a href="https://github.com/monntecc"><img src="https://github.com/monntecc.png" width="64" alt="Vladyslav Potapenko" /></a> | **Vladyslav Potapenko** &nbsp; · &nbsp; *CTO / COO, Co-Founder* | [GitHub](https://github.com/monntecc) |
 
 <br/>
 
