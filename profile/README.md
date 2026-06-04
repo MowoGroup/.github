@@ -78,15 +78,6 @@
 
 <br/>
 
-## Founders
-
-|   | | |
-|---|---|---|
-| <a href="https://github.com/wooslow"><img src="https://github.com/wooslow.png" width="64" alt="Luke Sauliunas" /></a> | **Luke Sauliunas** &nbsp; · &nbsp; *CEO, Co-Founder* | [GitHub](https://github.com/wooslow) |
-| <a href="https://github.com/monntecc"><img src="https://github.com/monntecc.png" width="64" alt="Vladyslav Potapenko" /></a> | **Vladyslav Potapenko** &nbsp; · &nbsp; *CTO / COO, Co-Founder* | [GitHub](https://github.com/monntecc) |
-
-<br/>
-
 ## Get in touch
 
 <p>
