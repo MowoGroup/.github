@@ -31,7 +31,7 @@
   <tr>
     <td width="34%" valign="top">
       <h3>Mowo Games</h3>
-      <p><sub>🟢 Live · <a href="https://mowogames.com">mowogames.com</a></sub></p>
+      <p><sub>🟡 In development</sub></p>
       <p>Our games studio. Where the engine becomes titles, and where the players land.</p>
     </td>
     <td width="33%" valign="top">
